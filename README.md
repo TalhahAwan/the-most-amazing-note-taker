@@ -26,6 +26,7 @@ https://the-most-amazing-note-taker.herokuapp.com/
 https://www.markdownguide.org/basic-syntax/
 https://guides.github.com/features/mastering-markdown/
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+Classmate: Chris Stallcup
 
 MIT License
 
